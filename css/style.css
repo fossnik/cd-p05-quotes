@@ -8,31 +8,33 @@ footer {
     font-family: monospace;
 }
 
-.jumbotron {
+.jumbo {
     background-color: #e0e;
-    padding: 16px;
     text-align: center;
-    display: inline-block;
 }
 
-.jumbotron .quotehead {
+.quotehead {
     background-color: #eea;
-    display: inherit;
-    padding: 16px;
+    display: inline;
+    padding: 8px;
 }
 
-.jumbotron .quotes {
+.quotebox {
     text-align: justify;
     background-color: #eae;
     padding: 10px;
 }
 
-.jumbotron p {
-    background-color: #aee;
-    margin: 4px;
-    padding: 4px;
+.quote {
+    background-color: #eaa;
+    padding: 6px;
+    display: inline-block;
+}
+.author {
+    background-color: #aae;
+    padding: inherit;
 }
 
-.jumbotron .btn {
-    margin-top: 10px;
+hr {
+    width: 65%;
 }
