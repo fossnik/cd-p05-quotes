@@ -21,14 +21,18 @@ footer {
     padding: 16px;
 }
 
-.jumbotron .blockquote {
+.jumbotron .quotes {
     text-align: justify;
     background-color: #eae;
-    padding: 4px;
+    padding: 10px;
 }
 
 .jumbotron p {
     background-color: #aee;
     margin: 4px;
     padding: 4px;
+}
+
+.jumbotron .btn {
+    margin-top: 10px;
 }
