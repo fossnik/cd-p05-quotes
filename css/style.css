@@ -1,0 +1,34 @@
+body {
+    background-color: #aaa;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-family: monospace;
+}
+
+.jumbotron {
+    background-color: #e0e;
+    padding: 16px;
+    text-align: center;
+    display: inline-block;
+}
+
+.jumbotron .quotehead {
+    background-color: #eea;
+    display: inherit;
+    padding: 16px;
+}
+
+.jumbotron .blockquote {
+    text-align: justify;
+    background-color: #eae;
+    padding: 4px;
+}
+
+.jumbotron p {
+    background-color: #aee;
+    margin: 4px;
+    padding: 4px;
+}
