@@ -8,6 +8,10 @@ footer {
     font-family: monospace;
 }
 
+.btn {
+    margin-bottom: 10px;
+}
+
 .container {
     padding: 2%;
 }
@@ -18,24 +22,28 @@ footer {
 }
 
 .quotehead {
-    background-color: #eea;
-    display: inline;
-    padding: 4px;
+    background-color: orange;
+    display: inline-block;
+    padding: 6px;
 }
 
 .quotebox {
-    text-align: center;
     background-color: #eae;
+    margin: 10px;
     padding: 10px;
 }
 
 .quote {
     background-color: #eaa;
     margin: 8px;
+    text-align: justify;
+    display: inline-block;
 }
+
 .author {
     background-color: #aae;
     margin: 8px;
+    display: inline-block;
 }
 
 hr {
