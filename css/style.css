@@ -8,6 +8,10 @@ footer {
     font-family: monospace;
 }
 
+.container {
+    padding: 2%;
+}
+
 .jumbo {
     background-color: #e0e;
     text-align: center;
@@ -16,23 +20,22 @@ footer {
 .quotehead {
     background-color: #eea;
     display: inline;
-    padding: 8px;
+    padding: 4px;
 }
 
 .quotebox {
-    text-align: justify;
+    text-align: center;
     background-color: #eae;
     padding: 10px;
 }
 
 .quote {
     background-color: #eaa;
-    padding: 6px;
-    display: inline-block;
+    margin: 8px;
 }
 .author {
     background-color: #aae;
-    padding: inherit;
+    margin: 8px;
 }
 
 hr {
